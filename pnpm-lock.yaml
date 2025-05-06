@@ -17,8 +17,8 @@ dependencies:
     specifier: ^1.6.1
     version: 1.6.1
   canvas:
-    specifier: ^2.11.2
-    version: 2.11.2
+    specifier: ^3.1.0
+    version: 3.1.0
   classnames:
     specifier: ^2.3.2
     version: 2.3.2
