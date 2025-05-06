@@ -1,9 +1,9 @@
 const BLOG = {
-  title: 'Linyn\'s 私厨小屋',
+  title: 'Linyn\'s cyber house',
   author: 'Linyn',
   email: 'linyn_zero@foxmail.com',
   link: 'https://lime-manuscript-ede.notion.site/1e90dc9336518096aa85c0b0d1e61307?v=1e90dc93365181028810000cd079e251',
-  description: 'Linyn\'s awesome website.',
+  description: 'the SWEET HOME!',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   timezone: 'Asia/Shanghai', // Your Notion posts' date will be interpreted as this timezone. See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
   appearance: 'auto', // ['light', 'dark', 'auto'],
@@ -17,8 +17,8 @@ const BLOG = {
   showAbout: true,
   showArchive: true,
   autoCollapsedNavBar: false, // The automatically collapsed navigation bar
-  ogImageGenerateURL: 'https://og-image-craigary.vercel.app', // The link to generate OG image, don't end with a slash
-  socialLink: 'https://twitter.com/craigaryhart',
+  ogImageGenerateURL: '',//'https://og-image-craigary.vercel.app', // The link to generate OG image, don't end with a slash
+  socialLink: '',//'https://twitter.com/craigaryhart',
   seo: {
     keywords: ['Blog', 'Website', 'Notion'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
